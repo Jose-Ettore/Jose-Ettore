@@ -1,5 +1,5 @@
-## Boas Vindas ao meu perfil 😅
-
+## Seja bem vindo ao meu perfil 😅
+## Welcome to my profile 😅
 
 <br />
 
@@ -8,7 +8,8 @@
 Meu nome é José Ettore e sou apaixonado por tecnologia, estou me desenvolvendo para
 me tornar um profissionla exenplar da tecnologia.👨‍💻
 
-
+My name is José Ettore and I am passionate about technology, I am developing myself to
+become an outstanding technology professional.👨‍
 
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
