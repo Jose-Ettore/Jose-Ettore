@@ -23,8 +23,8 @@ become an outstanding technology professional.👨‍
 
 <!--END_SECTION:waka-->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jose-Ettore&show_icons=true&theme=gotham" alt="Jose-Ettore" />
-<br/>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jose-Ettore&show_icons=true&theme=gotham" alt="Jose-Ettore" />
+<br/> -->
   <a href="https://www.instagram.com/_ettore_ettore_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-ettore-man%C3%A7ano-6a9820191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_balnk"></a>
 
